@@ -1,0 +1,5 @@
+---
+db_user: encro
+db_pass: rosecret
+db_name: encdb
+db_host: encdb
